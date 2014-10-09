@@ -8,7 +8,7 @@ public class HelloWorld
 	
 	{
 		System.out.println("Hello World");
-		System.out.println("6th version");
+		System.out.println("7th version");
 
 	}
 }
